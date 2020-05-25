@@ -1,4 +1,4 @@
-Preface {#preface .unnumbered}
+Preface
 =======
 
 This is a handy companion for the course on *advanced fluid mechanics*
